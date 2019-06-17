@@ -1,4 +1,4 @@
-# eFaceRecon
+# Trabalho de Inteligência Artificial
 Reconhecedor e classificador facial em tempo real com OpenCV, dlib e Deep Learning
 
 ### Execução
@@ -9,7 +9,7 @@ Reconhecedor e classificador facial em tempo real com OpenCV, dlib e Deep Learni
 
 2. Entre na pasta do projeto e crie um virtualenv com o python
 ```
-$ cd eFaceRecon
+$ cd Trabalho_IA
 $ virtualenv -p python3 env
 ```
 
